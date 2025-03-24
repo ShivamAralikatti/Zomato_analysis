@@ -70,7 +70,7 @@ pip install pandas numpy matplotlib seaborn
 
 
 ## ▶️ Usage
-- git clone https://github.com/your-username/zomato-analysis.git
+- git clone https://github.com/ShivamAralikatti/zomato-analysis.git
 - cd zomato-analysis
 - python zomato_analysis.py
 
